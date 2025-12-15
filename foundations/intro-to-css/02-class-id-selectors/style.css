@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 .odd-numbers {
   background-color: rgb(255, 175, 186);
-  font: Verdana, DejaVu Sans, sans-serif;
+  font: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #ID {
